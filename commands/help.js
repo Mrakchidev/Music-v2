@@ -29,7 +29,6 @@ module.exports = {
           { name: '🔀 Shuffle', value: 'Shuffle the songs in queue' },
           { name: '📃 playlist', value: 'manage the playlists' }
         )
-        .setImage(``); 
 
       const basicCommandsEmbed = new EmbedBuilder()
         .setColor(client.config.embedColor)
@@ -42,7 +41,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('')
+      
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
         .setURL('https://youtube.com/@mrakchi26')
