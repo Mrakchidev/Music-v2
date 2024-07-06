@@ -1,7 +1,7 @@
-const status = "AUTOMATIC";
-const botName = "🎸 MUSIC BOT";
-const rtxText = "RTX";
-const version = "Latest@ v3.6"; 
+const status = "Mrakchi";
+const botName = "MrakBot Music";
+const rtxText = "MRAKCHI";
+const version = "New Version@2.0"; 
 const startTime = Date.now();
 
 function printWatermark() {
@@ -21,20 +21,3 @@ function printWatermark() {
 module.exports = {
   printWatermark,
 };
-
-
-/*
-
-  ██████╗░████████╗██╗░░██╗           
-  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
-  ██████╔╝░░░██║░░░░╚███╔╝░          
-  ██╔══██╗░░░██║░░░░██╔██╗░          
-  ██║░░██║░░░██║░░░██╔╝╚██╗          
-  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-   
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
-   ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
-*/
